@@ -1,10 +1,10 @@
 p{
     color: red;
-    text-align: center;
+    text-align: justify;
 }
 
 h1{
     color: blue; /*cor da fonte*/
-    text-align: right; /*alinhamento do texto */
+    text-align: center; /*alinhamento do texto */
     font-size: 30px; /*tamanho da fonte*/
 }
