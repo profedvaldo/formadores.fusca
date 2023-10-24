@@ -8,3 +8,10 @@ h1{
     text-align: center; /*alinhamento do texto */
     font-size: 30px; /*tamanho da fonte*/
 }
+
+#paragrafo1{
+    color: aqua;
+}
+#paragrafo2{
+    background-color: aqua;
+}
