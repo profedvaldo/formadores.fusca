@@ -19,3 +19,9 @@ h1{
     color: rgb(255,0,0);
     background-color: rgb(255,255,0);
 }
+.imagem{
+    background-color: brown;   
+    padding: 25px;
+    max-width: 70%;
+    max-height: 70%;
+}
