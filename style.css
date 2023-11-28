@@ -35,3 +35,13 @@ h1{
 #itens{
     background-color: beige;
 }
+header{
+    font-size: 32px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    padding: 20px;
+    border-bottom: 5px red;
+}
+#logo{
+    
+}
