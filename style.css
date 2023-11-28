@@ -43,6 +43,7 @@ header{
     border-bottom: 5px red;
     min-height: 100px;
     vertical-align: middle;
+    align-items: center;
 }
 #logo{
     background-image: url("Volkswagen_logo_2019.svg.png");
@@ -57,6 +58,7 @@ header{
     display: inline-block;
     min-height: 20px;
     font-size: 20px;
+    
 }
 a{
     color: whitesmoke;
