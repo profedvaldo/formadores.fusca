@@ -41,6 +41,7 @@ header{
     color: whitesmoke;
     padding: 20px;
     border-bottom: 5px red;
+    vertical-align: middle;
 }
 #logo{
     background-image: url("Volkswagen_logo_2019.svg.png");
