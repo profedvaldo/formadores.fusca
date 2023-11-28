@@ -43,5 +43,15 @@ header{
     border-bottom: 5px red;
 }
 #logo{
-    
+    background-image: url("Volkswagen_logo_2019.svg.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    min-height: 100px;
+    padding-left: 100px; 
+    display: inline-block;
+}
+#menu{
+    display: inline-block;
+    min-height: 20px;
+    font-size: 20px;
 }
